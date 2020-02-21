@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb0b761b-e908-43fc-aca0-970c195a24fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XSXQkprLjTZNV8QrmLg8JMZRtT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="VkConversationBot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\PythonProject\FirstProject\VkConversationBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.VkConversationBot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb0b761b-e908-43fc-aca0-970c195a24fa" name="Default Changelist" comment="" />
+      <created>1581040455356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581040455356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581040723934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581040723934" />
+    <state x="786" y="428" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1581048264643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="786" y="428" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581048264643" />
+    <state x="1127" y="313" width="851" height="524" key="#xdebugger.evaluate" timestamp="1582312894900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1127" y="313" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582312894900" />
+    <state x="2865" y="29" width="851" height="524" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370872006" />
+    <state width="671" height="466" key="DebuggerActiveHint" timestamp="1582310020098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="671" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582310020098" />
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1582314383927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314383927" />
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state width="1899" height="328" key="GridCell.Tab.0.center" timestamp="1582314383927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314383927" />
+    <state width="1899" height="328" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state width="1899" height="328" key="GridCell.Tab.0.left" timestamp="1582314383927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314383927" />
+    <state width="1899" height="328" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state width="1899" height="328" key="GridCell.Tab.0.right" timestamp="1582314383927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314383927" />
+    <state width="1899" height="328" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom" timestamp="1582314385727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314385727" />
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state width="1899" height="328" key="GridCell.Tab.1.center" timestamp="1582314385727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314385727" />
+    <state width="1899" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state width="1899" height="328" key="GridCell.Tab.1.left" timestamp="1582314385727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314385727" />
+    <state width="1899" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state width="1899" height="328" key="GridCell.Tab.1.right" timestamp="1582314385727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314385727" />
+    <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1581041902524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581041902524" />
+    <state width="700" height="487" key="XDebugger.FullValuePopup" timestamp="1581351402077">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="700" height="487" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581351402077" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1582307131744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582307131744" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1582312268456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582312268456" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1581046951810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581046951810" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="VkBotEventType" />
+        <watch expression="vk" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

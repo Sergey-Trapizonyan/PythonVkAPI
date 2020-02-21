@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XSXQkprLjTZNV8QrmLg8JMZRtT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +25,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="VkConversationBot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -66,10 +70,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581040723934">
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582316482762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581040723934" />
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582316482762" />
     <state x="786" y="428" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1581048264643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -79,10 +83,18 @@
     </state>
     <state x="1127" y="313" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582312894900" />
     <state x="2865" y="29" width="851" height="524" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370872006" />
+    <state x="779" y="139" key="CommitChangelistDialog2" timestamp="1582316713387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="139" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582316713387" />
     <state width="671" height="466" key="DebuggerActiveHint" timestamp="1582310020098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="671" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582310020098" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582316369411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582316369411" />
     <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1582314383927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -123,14 +135,22 @@
     </state>
     <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582314385727" />
     <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581370891472" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1581041902524">
+    <state x="461" y="163" key="SettingsEditor" timestamp="1582316373554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581041902524" />
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582316373554" />
+    <state x="882" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582316621979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="882" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582316621979" />
     <state width="700" height="487" key="XDebugger.FullValuePopup" timestamp="1581351402077">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="700" height="487" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581351402077" />
+    <state x="525" y="156" width="1200" height="775" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582316545181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="156" width="1200" height="775" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582316545181" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1582307131744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

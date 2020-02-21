@@ -49,12 +49,20 @@ def send_hello(conversation_event):
     pass
 
 
+def send_goodbye(conversation_event):
+    if conversation_event.message['text'].lower() == 'пока':
+        send_message("Пока " + get_user_name_for_id(conversation_event.message['from_id']) + '!',
+                     conversation_event.message['peer_id'])
+    pass
+
+
 while True:
     try:
         for event in longPoll.listen():
             if event.type == VkBotEventType.MESSAGE_NEW:
                 if event.from_chat:
                     send_hello(event)
+                    send_goodbye(event)
 
     except Exception as E:
         print(E)
